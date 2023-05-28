@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand&display=swap');
 
 #root {
  /*color*/
+ --background-color: #21354710;
+ --random-number: #ff6764;
+ --button-hover: #808080;
 
  /*font*/
-
+    --font-title: 'Neucha', cursive;
+    --font-text:'Patrick Hand', cursive;
 
 /*accesibility*/
 font-size: 62.5%;
@@ -11,6 +17,8 @@ font-size: 62.5%;
  text-align: center;
  margin: auto;
 }
+
+
 
 
 

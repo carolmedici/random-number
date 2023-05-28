@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-pink-500'>Random Number Generator</h1>
+    
 
     <Random />
        
