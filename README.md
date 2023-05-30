@@ -1,6 +1,6 @@
 ﻿# Random Number
  
-Random Number created based on [Jean Meira's](https://random-number-blue.vercel.app/r) React challenge .
+Random Number created based on [Jean Meira's](https://github.com/JCDMeira/challenge-FR-004-winning-choice) React challenge .
  
 
  ## Table of contents
